@@ -668,7 +668,7 @@ nav .icon-list{
 	height: 315px;
 }
 
-#mainContent .bottom-word{
+#article .bottom-word{
 	display: flex;
     justify-content: center;
     font-size: 14px;
