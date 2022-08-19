@@ -668,6 +668,12 @@ nav .icon-list{
 	height: 315px;
 }
 
+#mainContent .bottom-word{
+	display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
 
 
 @media only screen and (max-width: 1067px){
