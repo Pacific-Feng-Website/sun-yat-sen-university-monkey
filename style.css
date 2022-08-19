@@ -3,7 +3,7 @@
 	font-family: 'Noto Sans TC', sans-serif ;
 }
 
-nav header, #mainContent h1, #mainContent h2, #selfIntroSide p, #relatedPost h4, #subscriptionBoard h4,
+nav header, #mainContent h1, #mainContent h2, #mainContent p, #selfIntroSide p, #relatedPost h4, #subscriptionBoard h4,
 #commemt-box-topic h4, #self-intro-bottom-name h3, #self-intro-bottom-intro p{
 	font-family: 'Noto Serif TC', serif !important;
 }
