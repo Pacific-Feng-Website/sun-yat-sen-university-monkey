@@ -5,11 +5,11 @@
 
 nav header, #mainContent h1, #mainContent h2, #mainContent p, #selfIntroSide p, #relatedPost h4, #subscriptionBoard h4,
 #commemt-box-topic h4, #self-intro-bottom-name h3, #self-intro-bottom-intro p{
-	font-family: 'Noto Serif TC', serif !important;
+	font-family: 'Noto Serif TC', serif;
 }
 
 #self-intro-side-name h3, #self-intro-bottom-name h3, #ig-bottom-bar-name h4, #footer-main-content p, #klook-bottom-title p{
-	font-family: 'La Belle Aurore', cursive !important;
+	font-family: 'La Belle Aurore', cursive;
 }
 /* FONT.CSS END */
 
@@ -673,6 +673,7 @@ nav .icon-list{
 	display: flex;
     justify-content: center;
     font-size: 14px;
+	font-family: font-family: 'Noto Sans TC', sans-serif !important;
 }
 
 
